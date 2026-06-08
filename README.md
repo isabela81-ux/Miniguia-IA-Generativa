@@ -124,8 +124,6 @@ Modelo de linguagem de grande escala treinado para compreender e gerar texto.
 
 ### Prompt (Instrução para IA)
 
-### Prompt (Instrução para IA)
-
 Comando, pergunta ou instrução fornecida ao modelo de Inteligência Artificial para orientar a geração de respostas ou conteúdos.
 
 ### Token
