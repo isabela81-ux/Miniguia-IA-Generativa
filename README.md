@@ -138,7 +138,7 @@ Geração de informações incorretas apresentadas de forma convincente.
 
 Modelo-base treinado em grandes volumes de dados.
 
-### Fine-Tuning (Ajuste Fino)
+### Fine-Tuning
 
 Adaptação de um modelo para tarefas específicas.
 
