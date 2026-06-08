@@ -138,11 +138,11 @@ Geração de informações incorretas apresentadas de forma convincente.
 
 Modelo-base treinado em grandes volumes de dados.
 
-### Fine-Tuning
+### Fine-Tuning (Ajuste Fino)
 
 Adaptação de um modelo para tarefas específicas.
 
-### RAG
+###  RAG (Retrieval-Augmented Generation)
 
 Combinação entre recuperação de informações e geração de conteúdo.
 
@@ -172,6 +172,6 @@ Validação obrigatória dos resultados gerados pela IA.
 
 ## Conclusão
 
-O NotebookLM demonstrou ser uma ferramenta eficiente para organização de conteúdos, síntese de informações e apoio ao aprendizado. A experiência permitiu compreender conceitos fundamentais da Inteligência Artificial Generativa e reforçou a importância da curadoria de fontes, da engenharia de prompts e da supervisão humana no uso responsável da IA.
+O NotebookLM demonstrou ser uma ferramenta eficiente para organização de conteúdos, síntese de informações e apoio ao aprendizado. A experiência permitiu compreender conceitos fundamentais da Inteligência Artificial Generativa e reforçou a importância da Seleção de Fontes, da engenharia de prompts e da supervisão humana no uso responsável da IA.
 
 
