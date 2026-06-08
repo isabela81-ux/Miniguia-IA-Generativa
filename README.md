@@ -103,7 +103,7 @@ Os modelos utilizam tokens e cálculos probabilísticos para prever sequências 
 * Problemas de privacidade
 * Questões de direitos autorais
 
-### Boas Práticas
+### Recomendações de Utilização
 
 * Supervisão humana constante.
 * Uso responsável da tecnologia.
@@ -118,13 +118,15 @@ Os modelos utilizam tokens e cálculos probabilísticos para prever sequências 
 
 Tecnologia capaz de criar novos conteúdos a partir de padrões aprendidos.
 
-### LLM
+### LLM (Large Language Model)
 
 Modelo de linguagem de grande escala treinado para compreender e gerar texto.
 
-### Prompt
+### Prompt (Instrução para IA)
 
-Comando ou instrução fornecida à IA.
+### Prompt (Instrução para IA)
+
+Comando, pergunta ou instrução fornecida ao modelo de Inteligência Artificial para orientar a geração de respostas ou conteúdos.
 
 ### Token
 
@@ -172,5 +174,6 @@ Validação obrigatória dos resultados gerados pela IA.
 
 ## Conclusão
 
-O NotebookLM demonstrou ser uma ferramenta eficiente para organização de conteúdos, síntese de informações e apoio ao aprendizado. A experiência permitiu compreender conceitos fundamentais da Inteligência Artificial Generativa e reforçou a importância da curadoria de fontes, da engenharia de prompts e da supervisão humana no uso responsável da IA.importância da curadoria de fontes, da engenharia de prompts e da supervisão humana no uso responsável da IA.
+O NotebookLM demonstrou ser uma ferramenta eficiente para organização de conteúdos, síntese de informações e apoio ao aprendizado. A experiência permitiu compreender conceitos fundamentais da Inteligência Artificial Generativa e reforçou a importância da curadoria de fontes, da engenharia de prompts e da supervisão humana no uso responsável da IA.
+
 
