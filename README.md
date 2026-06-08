@@ -3,7 +3,7 @@ Projeto desenvolvido na DIO utilizando o NotebookLM para estudar Inteligência A
 
  # Acelere sua Aprendizagem com IA: Explorando o Poder do NotebookLM
 
-## Contexto e Objetivos
+## Contexto da Objetivos
 
 Este projeto foi desenvolvido como parte do desafio da DIO utilizando o NotebookLM como ferramenta de aprendizagem ativa.
 
@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte do desafio da DIO utilizando o Notebook
 
 Inteligência Artificial Generativa: Evolução, Conceitos e Sinergia Humano-Máquina.
 
-### Objetivos de Estudo
+### Objetivos de Aprendizagem
 
 * Compreender os fundamentos da Inteligência Artificial Generativa.
 * Identificar as principais arquiteturas e modelos utilizados atualmente.
