@@ -3,7 +3,7 @@ Projeto desenvolvido na DIO utilizando o NotebookLM para estudar Inteligência A
 
  # Acelere sua Aprendizagem com IA: Explorando o Poder do NotebookLM
 
-## Contexto da Objetivos
+## Contexto e Objetivos
 
 Este projeto foi desenvolvido como parte do desafio da DIO utilizando o NotebookLM como ferramenta de aprendizagem ativa.
 
